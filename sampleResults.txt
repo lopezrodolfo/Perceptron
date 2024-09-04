@@ -1,0 +1,147 @@
+Actual output:
+A
+1 -1 -1 -1 -1 -1 -1 
+Classified output:
+A
+1 -1 -1 -1 -1 -1 -1 
+
+Actual output:
+B
+-1 1 -1 -1 -1 -1 -1 
+Classified output:
+B
+-1 1 -1 -1 -1 -1 -1 
+
+Actual output:
+C
+-1 -1 1 -1 -1 -1 -1 
+Classified output:
+C
+-1 -1 1 -1 1 -1 1 
+
+Actual output:
+D
+-1 -1 -1 1 -1 -1 -1 
+Classified output:
+D
+-1 -1 -1 1 -1 -1 -1 
+
+Actual output:
+E
+-1 -1 -1 -1 1 -1 -1 
+Classified output:
+E
+-1 -1 -1 -1 1 -1 -1 
+
+Actual output:
+J
+-1 -1 -1 -1 -1 1 -1 
+Classified output:
+J
+-1 -1 -1 -1 -1 1 -1 
+
+Actual output:
+K
+-1 -1 -1 -1 -1 -1 1 
+Classified output:
+K
+0 -1 -1 -1 -1 -1 1 
+
+Actual output:
+A
+1 -1 -1 -1 -1 -1 -1 
+Classified output:
+A
+-1 -1 -1 -1 -1 -1 1 
+
+Actual output:
+B
+-1 1 -1 -1 -1 -1 -1 
+Classified output:
+B
+-1 1 -1 -1 -1 -1 -1 
+
+Actual output:
+C
+-1 -1 1 -1 -1 -1 -1 
+Classified output:
+C
+-1 -1 1 -1 -1 -1 -1 
+
+Actual output:
+D
+-1 -1 -1 1 -1 -1 -1 
+Classified output:
+D
+-1 -1 -1 1 -1 -1 -1 
+
+Actual output:
+E
+-1 -1 -1 -1 1 -1 -1 
+Classified output:
+E
+-1 -1 -1 -1 1 -1 -1 
+
+Actual output:
+J
+-1 -1 -1 -1 -1 1 -1 
+Classified output:
+J
+-1 -1 -1 -1 -1 1 1 
+
+Actual output:
+K
+-1 -1 -1 -1 -1 -1 1 
+Classified output:
+K
+-1 -1 -1 -1 -1 -1 1 
+
+Actual output:
+A
+1 -1 -1 -1 -1 -1 -1 
+Classified output:
+A
+-1 -1 -1 -1 -1 -1 -1 
+
+Actual output:
+B
+-1 1 -1 -1 -1 -1 -1 
+Classified output:
+B
+-1 1 -1 -1 -1 -1 -1 
+
+Actual output:
+C
+-1 -1 1 -1 -1 -1 -1 
+Classified output:
+C
+-1 -1 1 -1 -1 -1 -1 
+
+Actual output:
+D
+-1 -1 -1 1 -1 -1 -1 
+Classified output:
+D
+-1 -1 -1 -1 -1 -1 -1 
+
+Actual output:
+E
+-1 -1 -1 -1 1 -1 -1 
+Classified output:
+E
+-1 -1 -1 -1 1 -1 1 
+
+Actual output:
+J
+-1 -1 -1 -1 -1 1 -1 
+Classified output:
+J
+-1 -1 -1 -1 -1 1 -1 
+
+Actual output:
+K
+-1 -1 -1 -1 -1 -1 1 
+Classified output:
+K
+-1 -1 -1 -1 -1 -1 1 
+
